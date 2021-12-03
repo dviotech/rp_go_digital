@@ -1,0 +1,18 @@
+<svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M25.9492 50C39.7563 50 50.9492 38.8071 50.9492 25C50.9492 11.1929 39.7563 0 25.9492 0C12.1421 0 0.949219 11.1929 0.949219 25C0.949219 38.8071 12.1421 50 25.9492 50Z" fill="white"/>
+<rect x="0.949219" width="50" height="50" rx="25" fill="white"/>
+<mask id="mask0_198_25096" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-1" width="52" height="52">
+<rect x="2.62891" y="1.68066" width="46.6667" height="46.6667" rx="23.3333" fill="#111B33" stroke="#30E9C4" stroke-width="4.16631" stroke-miterlimit="10"/>
+</mask>
+<g mask="url(#mask0_198_25096)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.6289 15.0286C11.6289 13.3635 12.9787 12.0137 14.6438 12.0137H35.9473C37.6124 12.0137 38.9622 13.3635 38.9622 15.0286V48.3321C38.9622 49.9972 37.6124 51.347 35.9473 51.347H14.6438C12.9787 51.347 11.6289 49.9972 11.6289 48.3321V15.0286ZM14.6438 14.0137C14.0833 14.0137 13.6289 14.4681 13.6289 15.0286V48.3321C13.6289 48.8926 14.0833 49.347 14.6438 49.347H35.9473C36.5078 49.347 36.9622 48.8926 36.9622 48.3321V15.0286C36.9622 14.4681 36.5079 14.0137 35.9473 14.0137H14.6438Z" fill="#071B4B" stroke="#071B4B" stroke-width="0.5" stroke-miterlimit="10"/>
+</g>
+<rect x="18.5064" y="28.8316" width="1.09091" height="7.63636" rx="0.545455" fill="#071B4B" stroke="#071B4B" stroke-width="1.09091"/>
+<rect x="22.4244" y="26.6499" width="1.09091" height="9.81818" rx="0.545455" fill="#071B4B" stroke="#071B4B" stroke-width="1.09091"/>
+<rect x="17.0923" y="19.1831" width="1.09091" height="9.81818" rx="0.545455" transform="rotate(-90 17.0923 19.1831)" fill="#071B4B" stroke="#071B4B" stroke-width="1.09091"/>
+<rect x="17.0213" y="43.593" width="1.05042" height="3.47447" rx="0.52521" transform="rotate(-90 17.0213 43.593)" fill="#071B4B" stroke="#071B4B" stroke-width="1.05042"/>
+<rect x="23.8104" y="43.592" width="1.05042" height="3.47447" rx="0.52521" transform="rotate(-90 23.8104 43.592)" fill="#071B4B" stroke="#071B4B" stroke-width="1.05042"/>
+<rect x="30.1424" y="43.592" width="1.05042" height="3.47447" rx="0.52521" transform="rotate(-90 30.1424 43.592)" fill="#071B4B" stroke="#071B4B" stroke-width="1.05042"/>
+<rect x="26.3384" y="31.0132" width="1.09091" height="5.45455" rx="0.545455" fill="#071B4B" stroke="#071B4B" stroke-width="1.09091"/>
+<rect x="30.2525" y="25.5591" width="1.09091" height="10.9091" rx="0.545455" fill="#071B4B" stroke="#071B4B" stroke-width="1.09091"/>
+</svg>
